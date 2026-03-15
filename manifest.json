@@ -1,5 +1,7 @@
 {
 	"id": "ukranianlanguage",
 	"version": "1.0.0",
-	"authors": ["HIHRAIM, illantalex, gshirma, johnklipi"]
+	"authors": ["HIHRAIM, illantalex, gshirma, johnklipi"],
+	"name": "Ukranian Language",
+	"description": "Mod which adds Ukranian language to the game as an option."
 }
