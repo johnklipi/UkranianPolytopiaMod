@@ -1,8 +1,8 @@
 # UkrainianPolytopiaMod
 ![](https://img.shields.io/github/downloads/johnklipi/UkranianPolytopiaMod/total)
 
-<h3 align="left">Custom Ukrainian translation for the game The Battle of Polytopia.</h3>
-<h2 align="left">Installation instructions</h2>
+## Custom Ukrainian translation for the game The Battle of Polytopia.
+### Installation instructions
 
 Download PolyMod Installer from https://polymod.dev/ and install PolyMod.
 
@@ -13,8 +13,8 @@ Open the game settings, and in language list select Українська.
 Enjoy!
 
 
-<h3 align="left">Кастомний український переклад для гри The Battle of Polytopia.</h3>
-<h2 align="left">Інструкція з встановлення</h2>
+## Кастомний український переклад для гри The Battle of Polytopia.
+### Інструкція з встановлення
 
 Завантажте інсталятор PolyMod з сайту https://polymod.dev/ та встановіть PolyMod.
 
